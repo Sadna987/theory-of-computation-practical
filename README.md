@@ -17,7 +17,7 @@ This repository contains programs for simulating various computational models, i
 3. **L1: First Two Characters Match Last Two**  
    - Accepts strings (length ≥ 4) over `{a,b}` where the first two characters match the last two.
 
-4. **L2: Pattern a(a+b)*b Acceptance**  
+4. **L2: Pattern a(a+b)b Acceptance**
    - Accepts strings over `{a,b}` following the pattern `a(a+b)*b`.
 
 5. **EVEN-EVEN FA**  
